@@ -1,0 +1,15 @@
+{
+  "name": "file-cycle",
+  "main": "./lib/file-cycle",
+  "version": "0.1.2",
+  "description": "Cycle through files with the same name but different extension",
+  "keywords": [
+    "file-navigation"
+  ],
+  "repository": "https://github.com/germtb/atom-file-cycle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

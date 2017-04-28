@@ -1,0 +1,6 @@
+{
+	"atom-workspace atom-text-editor:not([mini])": {
+		"alt-p": "file-cycle:cycle-abc",
+		"alt-shift-p": "file-cycle:cycle-cba"
+	}
+}
