@@ -3,7 +3,10 @@
   "main": "./lib/file-cycle",
   "version": "0.0.1",
   "description": "Cycle through files with the same name but different extension",
-  "keywords": [
+  "activationEvents": [
+    "file-cycle:cycle-abc",
+    "file-cycle:cycle-cba"
+  ],  "keywords": [
     "file-navigation"
   ],
   "repository": "https://github.com/germtb/atom-file-cycle",
