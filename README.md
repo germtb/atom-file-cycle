@@ -5,6 +5,9 @@ This package allows you to cycle through files with the same name but different 
 - foo.js
 - foo.css
 - foo.html
+- foo.test.js
+- foo.specs.js
+- foo.stories.js
 
 If there are no files with the same name but different extension, it will just cycle through the files in the same folder.
 
