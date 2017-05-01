@@ -9,8 +9,6 @@ This package allows you to cycle through files with the same name but different 
 - foo.specs.js
 - foo.stories.js
 
-If there are no files with the same name but different extension, it will just cycle through the files in the same folder.
-
 ## Default keymap
 
 - `alt-p` will go to the next file alphabet wise
