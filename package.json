@@ -1,7 +1,7 @@
 {
   "name": "file-cycle",
   "main": "./lib/file-cycle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cycle through files with the same name but different extension",
   "activationEvents": [
     "file-cycle:cycle-abc",
